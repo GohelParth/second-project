@@ -3,11 +3,11 @@ class Reverse
 	String name;
 	Reverse()
 	{
-		name = null;
+		this.name = null;
 	}
 	Reverse(String nm)
 	{
-		name = nm;
+		this.name = nm;
 	}
 
 	void Display()
