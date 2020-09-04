@@ -31,7 +31,7 @@ class Reverse
         System.out.println(ans1.substring(0, ans1.length() - 1) + " "  + "coding test" + " " + ans2.substring(0, ans2.length() - 22) + " " + "so much" + " " + ans3.substring(0, ans3.length() - 42) +" " + "my day"); 
     } 
 	
-}
+} 
 public class ReverseString { 
   
     public static void main(String[] args) 
